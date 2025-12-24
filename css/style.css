@@ -955,6 +955,7 @@ body {
         display: flex;
         flex-direction: column;
         justify-content: center;
+        gap: 7px;
     }
 
     .casino-bonus__title {
@@ -1231,3 +1232,4 @@ footer{
         font-size: 14px;
     }
 }
+
